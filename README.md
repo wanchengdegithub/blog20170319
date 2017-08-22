@@ -7,4 +7,4 @@
 
 ## 如何预览
 
-点击
+点击 https://wanchengdegithub.github.io/blog20170319/即可预览
